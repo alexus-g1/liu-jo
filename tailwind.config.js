@@ -31,7 +31,13 @@ module.exports = {
           'screens-head': ['22px','25px'],
       },
       spacing: {
-        
+        '1px': '1px',
+        '2px': '2px',
+        '3px': '3px',
+        'adapt-top': '74px',
+        'adapt-logo': '328px',
+        'brand-top': '146px',
+        'brand-bot': '11opx',
         'grey-logo' : '137px',
         'white-logo': '109px',
         'chair-2': '420px',
